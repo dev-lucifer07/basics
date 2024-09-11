@@ -10,3 +10,5 @@ Incharge--By Lucifer
 All going well in git.
 
 lots of confusion
+
+anything is easy after die hard training.
